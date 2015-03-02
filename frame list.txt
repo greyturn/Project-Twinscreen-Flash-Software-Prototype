@@ -1,0 +1,21 @@
+-Frame 1: Start Screen *\
+-Frame 2: Char 1 screen *\
+-Frame 3: Target Demovore *\
+-Frame 4: Char1  spell screen *\
+-Frame 5: Char2screen *\
+-Frame 6 Char3 screen *\
+-Frame 7: Char4 Screen *\
+-Frame 8: Item Screen \
+-Frame 9: Char 2 spell screen\
+-Frame 10: Char 3 spell screen\
+-Frame 11: Char 4 spell screen\
+-Frame 12 13: Char 1 attack animation\
+-Frame 14 15: Char 2 attack animation\
+-Frame 16 17: Char 3 attack animation\
+-Frame 18 19: Char 4 attack animation\
+-Frame 20: Char 1 spell animation\
+-Frame 21: Char 2 spell animation\
+-Frame 22: Char 3 spell animation\
+-Frame 23: Char 4 spell animation\
+-Frame 24: Demovore Fight animation\
+-Frame 25: Settings screen}
